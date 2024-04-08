@@ -20,11 +20,9 @@ Attachments: questionary (russian version with original format, english after au
 Data types: most parts of data are categorical variables.
 
 RESEARCH PLAN & METHODS
-- 1. Describe Target Audience
-      Gender, Age, City
-      Income
-- 2. Purchase volume calculating
-- 3. Consumer behavior: frequencies and correlation
+1. Describe Target Audience: Gender, Age, City, Income
+2. Purchase volume calculating
+3. Consumer behavior: frequencies and correlation
       Promo, producer`s, new brands preference
       Design preferences
       Eco preferences
