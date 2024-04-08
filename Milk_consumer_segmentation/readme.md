@@ -27,24 +27,18 @@ RESEARCH PLAN & METHODS
       Design preferences
       Eco preferences
 4. Claster analysis
-    4.1 Reduction variables
-        4.1.1. Reduction design preferences
-            PCA
-            MDS
-            TruncatedSVD
-        4.1.2. Reduction for consumer`s product preferences
-            PCA
-            MDS
-            TruncatedSVD
-        4.1.3. Check korrelation between design preferences and consumer`s product preferences
-    4.2. Preparing data for main cluster analysis
-    4.3. Cluster analysis (for different data sets)
-        4.3.1. K-means method
-        4.3.2. Agglomerative Hierarchical Clustering
-        4.3.3. hdbscan method clasterisation
-        4.3.4. Clusters descripption Compare results and clusters parametres
-    4.4 Variables optimisation (delete part dates)
-        Exclude non-characters (for different clusters) variables
-        Filter by % positive answer
-    4.5 Best model
-Summary
+4.1. Reduction variables
+4.1.1. Reduction design preferences: PCA, MDS, TruncatedSVD
+4.1.2. Reduction for consumer`s product preferences: PCA, MDS, TruncatedSVD
+4.1.3. Check korrelation between design preferences and consumer`s product preferences
+4.2. Preparing data for main cluster analysis
+4.3. Cluster analysis (for different data sets)
+4.3.1. K-means method
+4.3.2. Agglomerative Hierarchical Clustering
+4.3.3. hdbscan method clasterisation
+4.3.4. Clusters descripption Compare results and clusters parametres
+4.4. Variables optimisation (delete part dates)
+4.4.1. Exclude non-characters (for different clusters) variables
+4.4.2. Filter by % positive answer
+4.5. Best model
+5. Summary
