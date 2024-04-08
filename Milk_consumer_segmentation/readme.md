@@ -41,4 +41,4 @@ RESEARCH PLAN & METHODS
             4.4.1. Exclude non-characters (for different clusters) variables
             4.4.2. Filter by % positive answer
       4.5. Best model
-5. Summary
+6. Summary
